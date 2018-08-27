@@ -21,10 +21,10 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: We're not just webscale, <br><strong>we are the web.</strong>
-  content: At Comcast, building scale and security at scale is not just about keeping a website live and safe. It's about keeping the internet alive for the millions of services consumers consume daily.
+  content: At Comcast, building security at scale is not just about keeping a website live and safe, it's about keeping the internet alive.
   cta:
     enabled: true
-    url: https://github.com/comcast
+    url: https://github.com/Comcast
     button_text: 'See us on GitHub'
   image:
     image: "/uploads/2018/06/21/tps-logo.png"
@@ -34,17 +34,24 @@ page_sections:
   title: about
   block: feature-1
   media_alignment: Left
-  headline: <strong>Stuff &amp; Such<span class="light">&nbsp;</span></strong><span
-    class="light">make things good and what-not.</span>
-  content: orem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget malesuada magna, et iaculis odio. Suspendisse nec ante laoreet, viverra orci sit amet, vulputate erat. Suspendisse quis gravida justo. Maecenas non suscipit lectus. Aliquam non.
+  headline: <strong>Who we are.</strong>
+  content: We are T&P Security. We are responsible for the security of Comcast products, information, and the enterprise. Our functions include Product Security and Privacy, our Security Fusion Center which is tasked with incident and threat mitigation, Security Architecture & Technology solutions, Security Engineering & Operations, Cyber Security R&D, Legal Response, and Governance Risk & Compliance.   
   media:
     image: "/uploads/2018/06/21/17.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Build a career</strong><span class="light">&nbsp;something something and something else</span>
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget malesuada magna, et iaculis odio. Suspendisse nec ante laoreet, viverra orci sit amet, vulputate erat. Suspendisse quis gravida justo. Maecenas non suscipit lectus. Aliquam non.
+  headline: <strong>What we do.</strong>
+  content: We design our networks and products to be secure, and reinforce with multiple layers of security. Two groups are dedicated to 24/7 monitoring and response -- the Security Incident Response Team and the Security Operations Center. We meet with developers to onboard Secure development practices, as well as perform various assessments throughout our enterprise.<br><br>Once we respond to an incident, we put controls in place to protect against future similar incidents. Ultimately, security is about identifying and managing risk, which falls to our Global Risk and Compliance teams.
+  media:
+    image: "/uploads/2018/06/21/11.png"
+    alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: <strong>Why we do it.</strong>
+  content: Our customers' information must be protected, as well as Comcast's infrastructure. Comcast's reputation is the utmost important thing to protect from cyber-attacks. The challenge is how to provide the best customer and employee experience, while making sure that the experience is secure. We want security to be invisible and not get in anyone's way.<br><br>Building a culture of security across Comcast ensures that our people, processes, and technology can adapt to meet current and future security challenges. 
   media:
     image: "/uploads/2018/06/21/11.png"
     alt_text: Customize Blocks
@@ -71,18 +78,15 @@ page_sections:
       <thead>
       <tr class="header">
       <th align="left">Title</th>
-      <th align="left">Description</th>
+      <th align="left">Location</th>
+      <th align="left">Job Details</th>
       </tr>
       </thead>
       <tbody>
       <tr>
       <td align="left" markdown="span">Sr Developer, X1 Apps</td>
-      <td align="left" markdown="span">Join a team that is actively working on massively scaled distributed systems that are at the core of the X1 platform. Our series of applications serve close to a billion transactions daily and must maintain high levels of uptime in order to deliver a satisfactory customer experience. Your daily responsibilities will include collaborating with the team to resolve security vulnerabilities assigned to you by your peers in the remediation team. <a href="https://jobs.comcast.com/job-171824-sr-security-application-developer-in-philadelphia-pa-technology-it">Link</a>.</td>
-      </tr>
-      <tr>
-      <td align="left" markdown="span">Second column **fields**</td>
-      <td align="left" markdown="span">Some more descriptive text.
-      </td>
+      <td align="left" markdown="span">Philadelphia, PA</td>
+      <td align="left" markdown="span"><a href="https://jobs.comcast.com/job-171824-sr-security-application-developer-in-philadelphia-pa-technology-it">#171824</a></td>
       </tr>
       </tbody>
     </table>
@@ -91,14 +95,14 @@ page_sections:
   headline: Steps to joining our family!
   content: <p>The first step is to apply to one of the listings above. Depending on the role, 
     there are many avenues to success getting hired. Here are some of the qualities of our best
-    performers currently:</p><ol>
+    performers currently:</p>
+    <ul>
     <li><p>Active contributors to open source community.</p></li>
     <li><p>Security minded with a track record of finding, breaking, and fixing things</p></li>
     <li><p>Positive disposition! You understand security isn't about curmudgeony ivory towers but rather an opportunity to mentor and distill knowledge up and down the ladder.</p></li>
-    <li><p>A proven track record in scale. At Comcast it's impossible to know all the things but imperative to dive into anything.</p></li></ol>    
+    <li><p>A proven track record in scale. At Comcast it's impossible to know all the things but imperative to dive into anything.</p></li></ul>    
 - template: simple-footer
   block: footer-1
-  content: Comcast ❤︎
+  content: Made with ❤︎ in Philadelphia
 
 ---
-foo bar
