@@ -1,0 +1,19 @@
+<style type="text/css">
+  #jobs-block table { width: 100%; }
+  #jobs-block th, td { border-bottom: 1px solid #ddd; }
+</style>
+
+<section class="block block-one-column-1">
+  <div class="container">
+    <div class="columns">
+      <div id="jobs-block" class="column">
+        <a name="jobs"></a>
+        <h3>{{ section.headline }}</h3>
+        <p>
+            {% capture my_include %}{% include jobs.md %}{% endcapture %}
+            {{ my_include | markdownify }}
+        </p>
+      </div>        
+    </div>
+  </div>
+</section>
