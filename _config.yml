@@ -3,8 +3,8 @@ author: Forestry.io
 email: support@forestry.io
 description: >-
   Comcast something something something
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
+baseurl: "/pages/TP-PSP/jobsite-portal" # the subpath of your site, e.g. /blog
+url: "https://github.comcast.com" # your site's origin, e.g. https://forestry.io
 
 # Build settings
 defaults:
