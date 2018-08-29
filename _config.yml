@@ -1,10 +1,8 @@
 title: Comcast Product Security and Privacy
-author: Forestry.io
-email: support@forestry.io
+baseurl: /security
+
 description: >-
   Comcast something something something
-baseurl: "/pages/TP-PSP/jobsite-portal" # the subpath of your site, e.g. /blog
-url: "https://github.comcast.com" # your site's origin, e.g. https://forestry.io
 
 # Build settings
 defaults:
@@ -14,7 +12,6 @@ defaults:
       layout: "default" # this ensures all content renders with layouts/default.html
 markdown: kramdown
 gems:
-  - jekyll-feed
   - jekyll-menus
 
 # Exclude from processing.
