@@ -1,16 +1,33 @@
 <style type="text/css">
   #jobs-block table { width: 100%; }
-  #jobs-block th, td { border-bottom: 1px solid #ddd; }
+  #jobs-block th, td { 
+    border-bottom: 1px dashed #ddd; 
+    text-align: left; 
+    padding: 1em;    
+}
 </style>
 
 <section class="block block-one-column-1">
   <div class="container">
     <div class="columns">
+      <div class="column"><a name="{{ section.anchor }}"></a>
+        {% if section.content_source %}
+        {% capture my_include %}{% include {{ section.content_source }} %}{% endcapture %}
+        {{ my_include | markdownify }}
+        {% else %}
+        <h3>{{ section.headline }}</h3>
+        <p>{{ section.content }}</p>
+        {% endif %}
+      </div>        
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="columns">
       <div id="jobs-block" class="column">
         <a name="jobs"></a>
-        <h3>{{ section.headline }}</h3>
         <p>
-            {% capture my_include %}{% include jobs.md %}{% endcapture %}
+            {% capture my_include %}{% include markdown/jobs.md %}{% endcapture %}
             {{ my_include | markdownify }}
         </p>
       </div>        

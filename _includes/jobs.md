@@ -1,2 +1,0 @@
-**Title** | **Location** | **Job Details**
-Senior Developer, X1 Apps | Philadelphia, PA | [#171824](https://jobs.comcast.com/job-171824-sr-security-application-developer-in-philadelphia-pa-technology-it)

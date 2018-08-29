@@ -1,0 +1,18 @@
+<section class="block block-feature-2">
+  <div class="container">
+    <div class="columns">
+      <div class="column media"><a name="{{ section.anchor }}"></a>
+          <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
+      </div>
+      <div class="column text"><a name="{{ section.anchor }}"></a>
+        {% if section.content_source %}
+        {% capture my_include %}{% include {{ section.content_source }} %}{% endcapture %}
+        {{ my_include | markdownify }}
+        {% else %}
+        <h2><span class="light">{{ section.headline }}</span></h2>
+        <p>{{ section.content }}</p>
+        {% endif %}
+      </div> 
+    </div>
+  </div>
+</section>

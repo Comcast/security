@@ -1,0 +1,15 @@
+<section class="block block-one-column-1">
+  <div class="container">
+    <div class="columns">
+      <div class="column"><a name="{{ section.anchor }}"></a>
+        {% if section.content_source %}
+        {% capture my_include %}{% include {{ section.content_source }} %}{% endcapture %}
+        {{ my_include | markdownify }}
+        {% else %}
+        <h3>{{ section.headline }}</h3>
+        <p>{{ section.content }}</p>
+        {% endif %}
+      </div>        
+    </div>
+  </div>
+</section>

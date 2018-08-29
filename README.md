@@ -5,6 +5,7 @@ Single page application for the Comcast TP-PSP jobsite.
 - Ensure that Jekyll is installed on your machine
 - `cd` to this directory
 - run `jekyll serve`
+- `jekyll b -d docs`
 
 ## todo:
 - more job links

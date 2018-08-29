@@ -1,0 +1,31 @@
+<style type="text/css">
+div.text p {
+  margin-bottom: 1.4em;
+}
+div.text ul {
+  padding-left: 2em;
+}
+</style>
+
+{% if section.media_alignment and section.media_alignment == "Left" %}
+{% include block-security-feature-left.html %}
+{% else %}
+<section class="block block-feature-1">
+  <div class="container">
+    <div class="columns">
+      <div class="column text"><a name="{{ section.anchor }}"></a>
+        {% if section.content_source %}
+        {% capture my_include %}{% include {{ section.content_source }} %}{% endcapture %}
+        {{ my_include | markdownify }}
+        {% else %}
+        <h2><span class="light">{{ section.headline }}</span></h2>
+        <p>{{ section.content }}</p>
+        {% endif %}
+      </div>
+      <div class="column media">
+        <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
+      </div>
+    </div>      
+  </div>
+</section>
+{% endif %}
