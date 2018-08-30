@@ -2,7 +2,7 @@
 {% if section.background_image %}
 style="background-image: url('{{ section.background_image | relative_url }}')"
 {% endif %}>
-  <div class="container">
+  <div class="container" style="flex: initial;">
     <div class="columns">
       <div class="column text">
         <h1><span class="light">{{ section.headline }}</span></h1>
@@ -16,10 +16,9 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
       </div>
     </div>
   </div>
-  <div class="container" style="position: absolute; bottom: 5em;">
-    <figure style="text-align: center;">
+  <div class="container" style="text-align: center; flex: 1 1 100px; position: relative;">
+    <figure style="width: 100%; position: absolute; bottom: 1em;">
       <img src="{{ "uploads/2018/06/21/comcast_logo-small.png" | relative_url }}" alt="Comcast Logo" style="width: 150px;">
     </figure>
   </div>
-
 </section>
