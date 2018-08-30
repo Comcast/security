@@ -12,4 +12,4 @@ while(<>) {
     }
 }
 
-print map { join(" | ", @{$_}[0,3]) . "\n" } @jobs
+print map { join(" | ", @{$_}[0,2,3]) . "\n" } @jobs
