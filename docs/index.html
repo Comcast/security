@@ -148,9 +148,19 @@ transactions tomorrow.  And our work must be seamless and simple so security is 
 
 
 <style type="text/css">
-  #jobs-block table { width: 100%; }
+  #jobs-block table { 
+    width: 100%;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+  }
+  #jobs-block tr:first-child td {
+    border-bottom-width: 3px;
+    border-bottom: 1px solid #ccc;
+
+  }
+
   #jobs-block th, td { 
-    border-bottom: 1px dashed #ddd; 
+    border-bottom: 1px dashed #ccc; 
     text-align: left; 
     padding: 1em;    
 }
@@ -171,9 +181,9 @@ transactions tomorrow.  And our work must be seamless and simple so security is 
     </div>
   </div>
 
-  <div class="container">
+  <div id="jobs-block" class="container">
     <div class="columns">
-      <div id="jobs-block" class="column">
+      <div class="column">
         <a name="jobs"></a>
         <p>
             
