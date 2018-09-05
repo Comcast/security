@@ -1,0 +1,23 @@
+<section class="block block-hero-2" 
+{% if section.background_image %}
+style="background-image: url('{{ section.background_image | relative_url }}')"
+{% endif %}>
+<div class="container" style="text-align: center;">
+  <img style="width: 50%; padding-bottom: 3em;" src="{{ "uploads/2018/06/21/comcast-logo.png" | relative_url }}" alt="{{ section.caption }}">
+</div>
+
+<div class="container">
+    <div class="columns">
+      <div class="column text">
+        <h1><span class="light">{{ section.headline }}</span></h1>
+        <p>{{ section.content }}</p>
+        {% if section.cta and section.cta.enabled == true %}
+        <a class="button primary inverted" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
+        {% endif %}
+      </div>
+      <div class="column media">
+        <img style="width: 75%;" src="{{ section.image.image | relative_url }}" alt="{{ section.image.alt_text }}">
+      </div>
+    </div>
+  </div>
+</section>
