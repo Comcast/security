@@ -2,7 +2,7 @@
 Senior Director, Commercial Security Solutions | Moorestown, NJ; Philadelphia, PA; Reston, VA; Centennial, CO | [183359](https://jobs.comcast.com/job-183359-sr-director-commercial-security-solutions-in-moorestown-nj-telecommunications)
 Executive Director, Identity & Authentication | Philadelphia, PA | [184811](https://jobs.comcast.com/job-184811-exec-director-identity-authentication-in-philadelphia-pa-telecommunications)
 Senior Security Application Developer | Philadelphia, PA | [171824](https://jobs.comcast.com/job-171824-sr-security-application-developer-in-philadelphia-pa-technology-it)
-Manager 2, Business Security Officer | Philadelphia, PA | [183540](https://jobs.comcast.com/job-183540-manager-2-business-security-officer-in-philadelphia-pa-telecommunications)
+Manager 2, Business Information Security Officer | Philadelphia, PA | [183540](https://jobs.comcast.com/job-183540-manager-2-business-security-officer-in-philadelphia-pa-telecommunications)
 IT Systems Engineer, Physical Security | Philadelphia, PA | [180931](https://jobs.comcast.com/job-180931-it-systems-engineer-physical-security-in-philadelphia-pa-technology-network-engineering)
 Principal Security Engineer | Philadelphia, PA | [182813](https://jobs.comcast.com/job-182813-principal-security-engineer-in-philadelphia-pa-telecommunications)
 Cloud/Network Security Software Engineer | Philadelphia, PA; Denver, CO | [178853](https://jobs.comcast.com/job-178853-cloudnetwork-security-software-engineer-in-philadelphia-pa-technology-it)
