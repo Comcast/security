@@ -9,4 +9,4 @@ Cloud/Network Security Software Engineer | Philadelphia, PA; Denver, CO | [17885
 Cloud/Network Security Software Engineer | Philadelphia, PA | [182381](https://jobs.comcast.com/job-182381-cloudnetwork-security-software-engineer-in-philadelphia-pa-technology-software-engineering)
 Senior Security Architect | Philaldelphia, PA; Moorestown, NJ | [177256](https://jobs.comcast.com/job-177256-senior-security-architect-in-philadelphia-pa-technology-it)
 Executive Director, Vulnerability Management | Philaldelphia, PA | [183464](https://jobs.comcast.com/job-183464-executive-director-vulnerability-management-in-philadelphia-pa-telecommunications)
-Senior Security Architect | Philaldelphia, PA | [186230](https://career8.successfactors.com/sfcareer/jobreqcareer?jobId=186230&company=21114P&username=)
+Senior Security Architect | Philaldelphia, PA | [186230](https://jobs.comcast.com/job-186230-senior-security-architect-in-philadelphia-pa-technology-it)
