@@ -3,6 +3,10 @@ Single page application for the Comcast TP-PSP jobsite.
 
 Hosted here: https://comcast.github.io/security/
 
+# To update job listings
+
+Edit `_includes/markdown/jobs.md`
+
 ## to run
 - Ensure that Jekyll is installed on your machine
 - `cd` to this directory
