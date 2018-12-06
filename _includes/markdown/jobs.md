@@ -1,12 +1,7 @@
 **Title**  |  **Preferred Location**  | **Job Details**
-IT Systems Engineer, Physical Security | Philadelphia, West Chester  | [180931](https://jobs.comcast.com/job-180931-it-systems-engineer-physical-security-in-philadelphia-pa-technology-network-engineering)
-Sr. Security Application Developer | Philadelphia | [171824](https://jobs.comcast.com/job-171824-sr-security-application-developer-in-philadelphia-pa-technology-it)
 Senior Security Engineer | Philadelphia | [189205](https://jobs.comcast.com/job-189205-senior-security-engineer-in-philadelphia-pa-telecommunications)
 Sr. Manager, Security Compliance | Philadelphia | [189599](https://jobs.comcast.com/job-189599-sr-manager-security-compliance-in-philadelphia-pa-telecommunications)
-Executive Director, Vulnerability Management | Philadelphia | [183464](https://jobs.comcast.com/job-183464-executive-director-vulnerability-management-in-philadelphia-pa-telecommunications)
 Business Information Security Officer, Sr. Manager | Philadelphia | [183540](https://jobs.comcast.com/job-183540-business-information-security-officer-in-philadelphia-pa-telecommunications)
-Sr. Director, Commercial Security Solutions | Moorestown, NJ, Philadelphia, PA, Reston, VA, Centennial, CO | [183359](https://jobs.comcast.com/job-183359-sr-director-commercial-security-solutions-in-moorestown-nj-telecommunications)
-Exec Director, Identity & Authentication | Philadelphia | [184811](https://jobs.comcast.com/job-184811-exec-director-identity-authentication-in-philadelphia-pa-telecommunications)
 Sr. Manager, Security Architecture | Philadelphia, Moorestown, NJ, West Chester, PA | [184821](https://jobs.comcast.com/job-184821-sr-manager-security-architecture-in-philadelphia-pa-telecommunications)
 Business Information Security Officer, Sr. Director | Philadelphia | [186866](https://jobs.comcast.com/job-186866-business-information-security-officer-in-philadelphia-pa-telecommunications)
 Business Information Security Officer, Director | Philadelphia | [186850](https://jobs.comcast.com/job-186850-business-information-security-officer-in-philadelphia-pa-telecommunications)
@@ -14,4 +9,3 @@ Enterprise Key Management Implementation Engineer  | Moorestown, NJ, | [184810](
 Senior Manager, Security Connectivity Engineering | Philadelphia, Moorestown NJ | [189587](https://jobs.comcast.com/job-189587-senior-manager-security-connectivity-engineering-in-moorestown-nj-telecommunications)
 Sr. Manager, Network Security | Philadelphia, Moorestown, NJ, Englewood, Colorado, Washington, DC | [189369](https://jobs.comcast.com/job-189369-sr-manager-network-security-in-philadelphia-pa-telecommunications)
 Sr. Manager, Security Analytics | Philadelphia, Moorestown, NJ, Englewood, Colorado, Washington, DC | [189362](https://jobs.comcast.com/job-189362-sr-manager-security-analytics-in-philadelphia-pa-telecommunications)
-Sr. Embedded Security Engineer | Philadelphia, Reston, VA, Moorestown, NJ, West Chester, PA | [185555](https://jobs.comcast.com/job-185555-sr-embedded-security-engineer-in-philadelphia-pa-telecommunications)
