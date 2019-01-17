@@ -4,3 +4,4 @@ Senior Security Engineer, Security Development & Analytics | Morrestown, NJ | [1
 Sr. Manager, Security Architecture | Philadelphia, Moorestown, NJ, West Chester, PA | [184821](https://jobs.comcast.com/job-184821-sr-manager-security-architecture-in-philadelphia-pa-telecommunications)
 Operations Engineer, Active Directory | West Chester, PA | [193173](https://jobs.comcast.com/job-193173-operations-engineer-active-directory-in-west-chester-pa-telecommunications)
 Sr. Security Engineer, Active Directory | West Chester, PA | [191736](https://jobs.comcast.com/job-191736-sr-security-engineer-active-directory-in-west-chester-pa-telecommunications)
+Program Delivery Manager | Philadelphia | [193166](https://jobs.comcast.com/job-193166-program-delivery-manager-in-philadelphia-pa-telecommunications)
