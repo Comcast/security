@@ -11,8 +11,6 @@ defaults:
     values:
       layout: "default" # this ensures all content renders with layouts/default.html
 markdown: kramdown
-gems:
-  - jekyll-menus
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
