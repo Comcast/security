@@ -8,4 +8,4 @@ Program Manager | Philadelphia | [196563](https://jobs.comcast.com/job-196563-pr
 Sr. Security Engineer | Philadelphia | [193303](https://jobs.comcast.com/job-193303-sr-security-engineer-in-philadelphia-pa-telecommunications)
 Sr. DevSecOps Developer / Automation Engineer | Philadelphia | [197762](https://jobs.comcast.com/job-197762-sr-devsecops-developer-automation-engineer-in-philadelphia-pa-telecommunications)
 Security Solutions Engineer | Philadelphia | [197641](https://jobs.comcast.com/job-197641-security-solutions-engineer-in-philadelphia-pa-telecommunications)
-Manager, Cybersecurity Reporting / Automation | [198390](https://jobs.comcast.com/job-198390-manager-cybersecurity-reportingautomation-in-philadelphia-pa-telecommunications)
+Manager, Cybersecurity Reporting / Automation | Philadelphia | [198390](https://jobs.comcast.com/job-198390-manager-cybersecurity-reportingautomation-in-philadelphia-pa-telecommunications)
