@@ -1,7 +1,5 @@
 **Title** | **Preferred Location** | **Job Details**
 Director, Comcast Business Info Security | Philadelphia | [222884](https://jobs.comcast.com/jobs/description?external_or_internal=External&job_id=222884)
-Sr. Program Manager, Network/App Seg. & Automation | Philadelphia | [222889](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=222889)
-Senior Cybersecurity Engineer | Philadelphia | [222948](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=222948)
 Sr. Platform Engineer | Philadelphia | [R301999](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R301999)
 Senior Security Eng, Compliance | Philadelphia | [R301648](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R301648)
 Principal Software Engineer | Philadelphia | [R301677](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R301677)
@@ -11,3 +9,7 @@ Sr. Security Developer | Virtual | [R303160](https://jobs.comcast.com/jobs/descr
 Technical Program Manager, Cybersecurity Adoption Coach | Philadelphia | [R303309](https://jobs.comcast.com/jobs/description?external_or_internal=External&job_id=R303309)
 Sr. Director, Security Incident Response | Moorestown, NJ | [R303682](https://jobs.comcast.com/jobs/description?external_or_internal=External&job_id=R303682)
 Director, Cloud Security | Philadelphia | [R304155](https://jobs.comcast.com/jobs/description?external_or_internal=External&job_id=R304155)
+Principal Security Developer | Virtual | [R304970](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R304970)
+Sr. Manager, Cybersecurity Data Analytics | Virtual | [R304971](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R304971)
+Data Loss Prevention Onboarding Lead | Moorestown, NJ | [R302477](https://jobs.comcast.com/jobs/description?external_or_internal=External&job_id=R302477)
+Security Engineer, Incident Response | Englewood, CO | [R303683](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R303683)
